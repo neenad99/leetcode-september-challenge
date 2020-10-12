@@ -1,2 +1,2 @@
 # leetcode-september-challenge
-daily problem solving of september challenenge on leetcode platform
+daily problem solving of september challeenge on leetcode platform
